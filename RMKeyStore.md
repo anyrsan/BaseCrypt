@@ -15,8 +15,10 @@
  
  ## 转成pem 并且 base64 cer
  
- 写代码实现 
- 或者 用openssl  
- 或者在线转  [在线](http://www.ssleye.com/jks_pkcs12.html)
+ - 写代码实现 
+
+ - 或者 用openssl  
+
+ - 或者在线转  [地址](http://www.ssleye.com/jks_pkcs12.html)
  
  
