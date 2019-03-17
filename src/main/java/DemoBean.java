@@ -1,0 +1,2 @@
+public class DemoBean {
+}
